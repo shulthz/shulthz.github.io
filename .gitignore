@@ -1,0 +1,11 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+_posts/2017-03-05-pagination-post.md
+_posts/2017-03-10-welcome-to-jekyll.md
+_posts/2017-03-16-example-content.md
+_posts/2018-03-17-another-lorem-ipsum-post.md
+_posts/2018-05-11-introducing-rain.md
+_posts/2018-05-16-lorem-ipsum-post.md
