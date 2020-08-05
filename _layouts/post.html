@@ -9,7 +9,9 @@ layout: default
       <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
-  
+  <class="post-title">
+    <div>{{ page.title }}</div>
+  </>
 
   {{ content }}
 
