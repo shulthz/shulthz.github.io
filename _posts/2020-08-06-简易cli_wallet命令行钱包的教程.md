@@ -5,25 +5,25 @@ author: "binggo"
 ---
 
 
-可参考的：
-https://www.jianshu.com/p/aac211014c79
-这个只能看看，不能当真，因为是其它DPOS区块链的：https://cn-dev.cocosbcx.io/docs/22-cli_wallet  
+可参考的：  
+https://www.jianshu.com/p/aac211014c79  
+这个只能看看，不能当真，因为是其它DPOS区块链的：https://cn-dev.cocosbcx.io/docs/22-cli_wallet    
 
-Windows系统十有八九的会编译失败，所以只讲Linux操作系统
+Windows系统十有八九的会编译失败，所以只讲Linux操作系统  
 
-下载linuxmint：https://www.linuxmint.com/edition.php?id=281
+下载linuxmint：https://www.linuxmint.com/edition.php?id=281  
 https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20/linuxmint-20-cinnamon-64bit.iso
 
-下载Oracle VM VirtualBox：
+下载Oracle VM VirtualBox：  
 https://www.virtualbox.org/
 
-怎么在window上面用虚拟机VirtualBox安装linuxmint，网上一搜就很多教程：
+怎么在window上面用虚拟机VirtualBox安装linuxmint，网上一搜就很多教程：  
 https://www.cnblogs.com/zhangjiuding/p/7581993.html
 
 
 开始
 ---------------
-环境安装说明及附加文件如下：
+环境安装说明及附加文件如下：  
 [Wiki](https://github.com/bitshares/bitshares-core/wiki).
 
 ### 构建
@@ -46,7 +46,7 @@ https://www.cnblogs.com/zhangjiuding/p/7581993.html
     make
 
 
-* BitShares 需要 [Boost](http://www.boost.org/) libraries to build, 版本支持 `1.58` to `1.69`.
+* BitShares 需要 [Boost](http://www.boost.org/) libraries to build, 版本支持 `1.58` to `1.69`.  
 新版本可能支持，没有测试过。
 
 
