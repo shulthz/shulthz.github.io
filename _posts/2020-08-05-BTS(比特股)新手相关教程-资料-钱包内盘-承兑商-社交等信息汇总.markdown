@@ -3,8 +3,8 @@ layout: post
 title: "BTS(比特股)新手相关教程-资料-钱包内盘-承兑商-社交等信息汇总"
 date:   2020-08-05
 last_modified_at: 2020-08-05
-categories: [Jekyll Paper]
-tags: 
+categories: [Bitshares]
+tags: [Bitshares]
 ---
 
 # **WARNING!警告！**  
