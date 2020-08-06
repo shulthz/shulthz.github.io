@@ -8,7 +8,11 @@
   display: none;
 }
 
-.post-content p {
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+#.post-content p {
   line-height: 1.5;
 }
 
