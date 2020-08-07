@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "简易cli_wallet命令行钱包的教程"
+title: 简易cli_wallet命令行钱包的教程
 author: "binggo"
+categories: [Bitshares]
+tags: [Bitshare]
 ---
 
 
