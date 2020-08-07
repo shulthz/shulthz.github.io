@@ -33,6 +33,10 @@ language: zh-cn
 # zh-cn: 简体中文 (Simplified Chinese)
 # zh-tw: 繁體中文 (Traditional Chinese)
 
+# Links to social media
+social:
+  github: https://github.com/shulthz
+  
 analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
 paginate: 25
