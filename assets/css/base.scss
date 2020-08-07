@@ -1,13 +1,21 @@
 ---
 ---
 
-/*
- * base.scss
- * Author: Chen Su <i@ghosind.com>
- */
-
 @charset "utf-8";
 
-@import 'reset', 'wrapper', 'function', 'header', 'main', 'footer', 'page',
-  'post-list', 'post', 'category', '404', 'highlighter', 'mobile', 'printer',
-  'task-list', 'mermaid';
+@import
+  "reset",
+  "container",
+  "header",
+  "float",
+  "footer",
+  "page",
+  "post-list",
+  "post",
+  "category",
+  "highlighter",
+  "mobile",
+  "printer",
+  "task-list",
+  "mermaid"
+;
