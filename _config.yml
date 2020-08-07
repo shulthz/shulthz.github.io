@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 君子喻于义 小人喻于利
-email: your-email@example.com
+email: BTS：binggo
 name: shulthz
 description: >- # this means to ignore newlines until "baseurl:"
   君子以慎辨物居方
