@@ -8,22 +8,22 @@ tags: [Bitshare]
 
 
 可参考的：    
-https://www.jianshu.com/p/aac211014c79 
+(https://www.jianshu.com/p/aac211014c79) 
  
 这个只能看看，不能当真，因为是其它DPOS区块链的：  
-https://cn-dev.cocosbcx.io/docs/22-cli_wallet    
+(https://cn-dev.cocosbcx.io/docs/22-cli_wallet)    
 
 Windows系统十有八九的会编译失败，所以只讲Linux操作系统  
 
 下载linuxmint：   
-https://www.linuxmint.com/edition.php?id=281     
-https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20/linuxmint-20-cinnamon-64bit.iso  
+(https://www.linuxmint.com/edition.php?id=281)     
+(https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20/linuxmint-20-cinnamon-64bit.iso)  
 
 下载Oracle VM VirtualBox：  
-https://www.virtualbox.org/
+(https://www.virtualbox.org/)
 
 怎么在window上面用虚拟机VirtualBox安装linuxmint，网上一搜就很多教程：  
-https://www.cnblogs.com/zhangjiuding/p/7581993.html
+(https://www.cnblogs.com/zhangjiuding/p/7581993.html)
 
 
 开始
