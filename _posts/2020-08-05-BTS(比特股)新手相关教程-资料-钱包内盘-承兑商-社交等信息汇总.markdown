@@ -60,7 +60,7 @@ tags: [Bitshare]
 <https://www.hibtc.org/979.html>
 
 **内盘资产鱼龙混杂，请各位仔细鉴别！！！内盘允许私人发行资产,所以请睁大眼睛,多方求证,看清资产发行方。**
-***
+
 **1.中文资讯教程网站**  
 社区网站（没有中文）：<https://bitshares.org/>   
 内盘交易所使用教程：<http://www.btsabc.org/portal.php?mod=topic&topicid=1>   
