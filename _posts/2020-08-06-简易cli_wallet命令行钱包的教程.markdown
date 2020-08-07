@@ -15,7 +15,7 @@ https://cn-dev.cocosbcx.io/docs/22-cli_wallet
 
 Windows系统十有八九的会编译失败，所以只讲Linux操作系统  
 
-下载linuxmint： 
+下载linuxmint：   
 https://www.linuxmint.com/edition.php?id=281     
 https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20/linuxmint-20-cinnamon-64bit.iso  
 
