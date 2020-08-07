@@ -3,8 +3,8 @@ layout: post
 title: "BTS(比特股)新手相关教程-资料-钱包内盘-承兑商-社交等信息汇总"
 date:   2020-08-05
 last_modified_at: 2020-08-05
-categories: [Bitshares]
-tags: [Bitshare]
+categories: []
+tags: []
 ---
 
 # **WARNING!警告！**  
@@ -347,6 +347,8 @@ BTS:
 
 <https://poloniex.com> （经常性禁止充提，不建议）  
 <https://yobit.net>  
+
+
 ***
 BTS的“转账”与“提现”：
 
@@ -365,19 +367,20 @@ bts:  现在有bts的交易所（这些交易所都安装有bts钱包）可以�
 YOYOW：这种项目方直接对接内盘的，找项目方的说明。
 
 BTS还有一种“桥接”功能：这个功能能让你将一种资产转变成另一种资产，比如从 BTC 转换到 BTS，从BTS变为BTC，不过中间费用比较高。
-***
-10.适合英文比较好的同学看  
+
+**10.适合英文比较好的同学看  
 <https://coincentral.com/what-is-bitshares/>  
 <http://docs.bitshares.eu/bitshares/papers/index.html>  
 <http://docs.bitshares.eu/bitshares/user/first-steps-users.html>  
 <https://steemit.com/bitshares/@tsugimoto/user-guide-direct-exchange-servise>  
 <https://steemit.com/bitshares/@scythian/dex-market-maker-tutorial-bits-and-btsbots>  
 
-11.杂项
+**11.杂项
 
 抵押操作本身就是在加杠杆，请务必清楚里面的收益与风险。！！！  
 Settlement price= Feed Price: 清算价格=喂价，由见证人读取外盘数据提供给内盘的资产价格  
-MCR=Maintenance collateral ratio: 最低抵押率  
+MCR=Maintenance collateral ratio: 爆仓抵押率
+ICR:最低抵押率
 MSSR=Maximum short squeeze ratio: 轧空比率，又称强平比率或爆仓惩罚比率  
 SQP=short squeeze protection price: 轧空保护价, 又称强制平仓价格  
 CP =Call price: 强平触发价格  
