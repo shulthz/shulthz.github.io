@@ -4,7 +4,7 @@ title: "BTS(比特股)新手相关教程-资料-钱包内盘-承兑商-社交等
 date:   2020-08-05
 last_modified_at: 2020-08-05
 categories: [Bitshares]
-tags: [Bitshares]
+tags: [Bitshare]
 ---
 
 # **WARNING!警告！**  
