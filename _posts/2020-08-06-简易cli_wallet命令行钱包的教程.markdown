@@ -94,10 +94,31 @@ Windows系统十有八九的会编译失败，所以只讲Linux操作系统
 
 之后就可以各种骚操作。
 
-注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定。
-
+注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
 
     unlocked >>> lock
+
+
+下次再登录的时候：
+
+第一步，进入bitshares core文件夹，打开终端，输入，后面这个节点如果连接不上的的话，找可用的节点替换：
+
+    ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://api.bts.ai/ws
+
+第二步：
+
+      locked >>> unlock [ENTER]
+      Enter password:
+      unlocked >>>
+     
+之后就可以各种骚操作。
+
+注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
+
+    unlocked >>> lock    
+    
+    
+    
 
 更多信息参看:  [Wiki](https://github.com/bitshares/bitshares-core/wiki/CLI-Wallet-Cookbook).
 
