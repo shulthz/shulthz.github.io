@@ -121,6 +121,9 @@ GDEX APP: GDEX APP已集成承兑商
 AEX有CNC（代表法币）交易对，可以直冲法币买BTS，也有CNC/bitcny交易对。 
 ***
 
+
+、、、
+
 # **重钱包安装教程：**
 
 
