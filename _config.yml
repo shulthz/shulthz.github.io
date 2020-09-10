@@ -65,7 +65,9 @@ jekyll-archives:
     tag: /tag/:name/
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 plugins:
   - jekyll-feed
   - jekyll-paginate
