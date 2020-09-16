@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 君子喻于义 小人喻于利
-email: BTS：binggo
+email: 
 name: shulthz
 description: >- # this means to ignore newlines until "baseurl:"
   君子以慎辨物居方
@@ -65,9 +65,8 @@ jekyll-archives:
     tag: /tag/:name/
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
