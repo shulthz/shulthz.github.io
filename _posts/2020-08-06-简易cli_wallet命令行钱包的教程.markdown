@@ -62,10 +62,15 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 之后就可以各种骚操作。
 
 
-注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
+注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定:
 ```
   unlocked >>> lock
+  
 ```
+
+**按组合键Ctrl+C退出
+
+
 下次再登录的时候：
 
 第一步，进入bitshares core文件夹，打开命令行窗口，输入，后面这个节点如果连接不上的的话，找可用的节点替换：
@@ -73,7 +78,6 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 ./cli_wallet -s wss://ws.gdex.top
 
 ``` 
-
 第二步：
 
       locked >>> unlock 密码
@@ -136,6 +140,8 @@ bitshares-core-5.0.0-linux-amd64-bin.tar.bz2
 注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
 
     unlocked >>> lock
+
+**按组合键Ctrl+C退出
 
 
 下次再登录的时候：
