@@ -10,10 +10,68 @@ tags:
 可参考的：    
 <https://www.jianshu.com/p/aac211014c79> 
  
-这个只能看看，不能当真，因为是其它DPOS区块链的：  
-<https://cn-dev.cocosbcx.io/docs/22-cli_wallet>    
+ 
+Windows系统:
+从下面下载windows工具包：
+https://github.com/bitshares/bitshares-core/releases/tag/5.0.0
+bitshares-core-5.0.0-win64-bin.zip
 
-Windows系统十有八九的会编译失败，所以只讲Linux操作系统  
+下载解压，打开文件夹：
+打开本地文件夹下的命令行窗口（请自行百度）...
+Win10系统下本地文件夹工具栏会有：“文件”-“打开 Windows PowerShell（R)"-"打开 Windows PowerShell"
+
+命令行窗口输入：
+
+  ./cli_wallet -s wss://ws.gdex.top
+
+wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话，请替换成测试网节点。
+
+按[ENTER]后，出现：
+
+  new >>>
+
+输入：
+
+  set_password 新钱包密码
+
+出现：
+
+  null
+  locked >>>
+
+输入：
+
+  unlock 新设置的钱包密码
+
+出现:
+
+  null
+  unlocked >>>
+
+导入账户及账户密钥（非密码）：
+
+  import_key <ACCOUNT_NAME> <WIF_KEY>
+
+如果出现，则代表导入成功：
+
+  true
+  unlocked >>>
+
+之后就可以各种骚操作。
+
+
+注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
+
+    unlocked >>> lock
+
+
+
+
+
+-----
+
+
+Linux操作系统 :
 
 下载linuxmint：   
 <https://www.linuxmint.com/edition.php?id=281>     
