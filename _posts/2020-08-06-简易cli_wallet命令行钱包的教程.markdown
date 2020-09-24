@@ -21,42 +21,42 @@ bitshares-core-5.0.0-win64-bin.zip
 Win10系统下本地文件夹工具栏会有：“文件”-“打开 Windows PowerShell（R)"-"打开 Windows PowerShell"
 
 命令行窗口输入：
-'''
-  ./cli_wallet -s wss://ws.gdex.top
-'''
+
+   ./cli_wallet -s wss://ws.gdex.top
+
 wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话，请替换成测试网节点。
 
 按[ENTER]后，出现：
-'''
+ 
   new >>>
-'''
+ 
 输入：
-'''
+ 
   set_password 新钱包密码
-'''
+ 
 出现：
-'''
+ 
   null
   locked >>>
-'''
+ 
 输入：
-'''
+ 
   unlock 新设置的钱包密码
-'''
+ 
 出现:
-'''
+ 
   null
   unlocked >>>
-'''
+ 
 导入账户及账户密钥（非密码）：
-'''
+ 
   import_key <ACCOUNT_NAME> <WIF_KEY>
-'''
+ 
 如果出现，则代表导入成功：
-'''
+ 
   true
   unlocked >>>
-'''
+ 
 之后就可以各种骚操作。
 
 
