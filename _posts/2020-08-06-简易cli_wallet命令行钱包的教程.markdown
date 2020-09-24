@@ -11,7 +11,8 @@ tags:
 <https://www.jianshu.com/p/aac211014c79> 
  
  
-Windows系统:   
+Windows系统:
+   
 从下面下载windows工具包：   
 https://github.com/bitshares/bitshares-core/releases/tag/5.0.0   
 bitshares-core-5.0.0-win64-bin.zip
