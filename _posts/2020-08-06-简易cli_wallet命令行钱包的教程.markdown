@@ -13,7 +13,7 @@ tags:
  
 Windows系统:
    
-从下面下载windows工具包：   
+从下面下载windows代码包：   
 https://github.com/bitshares/bitshares-core/releases/tag/5.0.0   
 bitshares-core-5.0.0-win64-bin.zip
 
@@ -23,7 +23,7 @@ Win10系统下本地文件夹工具栏会有：“文件”-“打开 Windows Po
 
 命令行窗口输入：
 ```
-./cli_wallet -s wss://ws.gdex.top
+  ./cli_wallet -s wss://ws.gdex.top
 ```
 wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话，请替换成测试网节点。
 
@@ -33,7 +33,7 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 ```
 输入：
  ```
-  set_password 新钱包密码
+  new >>>set_password 新钱包密码
  ```
 出现：
 ``` 
@@ -42,18 +42,18 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
  ```
 输入：
  ```
-  unlock 新设置的钱包密码
+  locked >>>unlock 新设置的钱包密码
  ```
 出现:
  ```
   null
   unlocked >>>
  ```
-导入账户及账户密钥（非密码）：
+下面这个命令是为了能够导入你的账户， import_key <账户名> <私钥>：
  ```
-  import_key <ACCOUNT_NAME> <WIF_KEY>
+  unlocked >>>import_key <ACCOUNT_NAME> <WIF_KEY>
  ```
-如果出现，则代表导入成功：
+如果出现true，则代表导入成功：
  ```
   true
   unlocked >>>
@@ -63,9 +63,20 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 
 注意：最后退出的时候，要输入“lock”锁定账户，因为不会自动锁定：
 ```
-    unlocked >>> lock
+  unlocked >>> lock
 ```
+下次再登录的时候：
 
+第一步，进入bitshares core文件夹，打开命令行窗口，输入，后面这个节点如果连接不上的的话，找可用的节点替换：
+```
+./cli_wallet -s wss://ws.gdex.top
+
+``` 
+
+第二步：
+
+      locked >>> unlock 密码
+      unlocked >>>
 
 
 
@@ -74,79 +85,47 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 
 Linux操作系统 :
 
-下载linuxmint：   
-<https://www.linuxmint.com/edition.php?id=281>     
-<https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20/linuxmint-20-cinnamon-64bit.iso>  
-
-下载Oracle VM VirtualBox：  
-<https://www.virtualbox.org/>
-
-怎么在window上面用虚拟机VirtualBox安装linuxmint，网上一搜就很多教程：  
-<https://www.cnblogs.com/zhangjiuding/p/7581993.html>
-
-
-开始
----------------
-环境安装说明及附加文件如下：  
-[Wiki](https://github.com/bitshares/bitshares-core/wiki).
-
-### 构建
-
-
-**构建依赖项**
-
-    sudo apt-get update
-    sudo apt-get install autoconf cmake make automake libtool git libboost-all-dev libssl-dev g++ libcurl4-openssl-dev doxygen
-
-**构建脚本:**
-
-    git clone https://github.com/bitshares/bitshares-core.git
-    cd bitshares-core
-    git checkout master # may substitute "master" with current release tag
-    git submodule update --init --recursive
-    mkdir build
-    cd build
-    cmake -DCMAKE_BUILD_TYPE=Release ..
-    make
-
-
-* BitShares 需要 [Boost](http://www.boost.org/) libraries to build, 版本支持 `1.58` to `1.69`.  
-新版本可能支持，没有测试过。
-
-
-
-* BitShares 需要 [OpenSSL](https://www.openssl.org/) 库来构建, 支持版本 `1.0.2` to `1.1.1`.
-
-
+从下面下载windows代码包：   
+https://github.com/bitshares/bitshares-core/releases/tag/5.0.0  
+bitshares-core-5.0.0-linux-amd64-bin.tar.bz2
 ###
 
 打开bitshares-core文件夹，在此文件夹打开命令行窗口输入下列命令后按确认键
 
-    ./programs/witness_node/witness_node
+```
+./cli_wallet -s wss://ws.gdex.top
+```
 
-会创建一个 `witness_node_data_dir`文件夹，等个1分钟，按 `Ctrl+C` 退出
+如果第一次没有出现下面这个new，就再输入一下上面的命令:
 
-然后输入下列命令按确认键开启cli_wallet，这个'wss://api.bts.ai/ws‘可以替换成其它的节点链接：
-
-    ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://api.bts.ai/ws
-
-如果第一次没有出现下面这个new，就再输入一下上面的命令：
-
-    new >>> info
+    new >>> 
 
 *输入set_password按确认键：
 
-      new >>> set_password [ENTER]
+    new >>> set_password
 
 出现下面这个，在后面设置一个密码，注意: 输入的时候密码是不显示的：
 
-      Enter password:
-      locked >>> unlock [ENTER]
-      Enter password:
-      unlocked >>>
+    Enter password:新钱包密码
+      
+ 出现：
+ ```
+ locked >>>
+ ```
+ 输入：
+ ```
+ locked >>> unlock
+ ```
+ 出现:
+ ```
+ Enter password:输入新设置的密码
+ ```
+ 出现,代表钱包解锁：
+ ```
+ unlocked >>>
+ ```
 
-
-下面这个命令是为了能够联系你的账户， import_key <账户名> <私钥>
+下面这个命令是为了能够导入你的账户， import_key <账户名> <私钥>
 
 
     unlocked >>> import_key <ACCOUNT_NAME> <WIF_KEY>
@@ -161,9 +140,10 @@ Linux操作系统 :
 下次再登录的时候：
 
 第一步，进入bitshares core文件夹，打开终端，输入，后面这个节点如果连接不上的的话，找可用的节点替换：
+```
+./cli_wallet -s wss://ws.gdex.top
 
-    ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://api.bts.ai/ws
-
+``` 
 第二步：
 
       locked >>> unlock [ENTER]
