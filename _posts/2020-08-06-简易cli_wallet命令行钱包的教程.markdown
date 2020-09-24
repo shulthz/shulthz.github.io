@@ -15,7 +15,7 @@ tags:
 Windows系统:
    
 从下面下载windows代码包：   
-https://github.com/bitshares/bitshares-core/releases/tag/5.0.0   
+<https://github.com/bitshares/bitshares-core/releases/tag/5.0.0>    
 bitshares-core-5.0.0-win64-bin.zip
 
 下载解压，打开文件夹：
@@ -90,8 +90,8 @@ wss://ws.gdex.top可以替换成其它可连接节点，如果是测试网的话
 
 Linux操作系统 :
 
-从下面下载windows代码包：   
-https://github.com/bitshares/bitshares-core/releases/tag/5.0.0  
+从下面下载Linux代码包：   
+<https://github.com/bitshares/bitshares-core/releases/tag/5.0.0>  
 bitshares-core-5.0.0-linux-amd64-bin.tar.bz2
 ###
 
