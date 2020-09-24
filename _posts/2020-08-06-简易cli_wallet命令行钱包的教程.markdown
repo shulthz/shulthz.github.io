@@ -11,13 +11,13 @@ tags:
 <https://www.jianshu.com/p/aac211014c79> 
  
  
-Windows系统:
-从下面下载windows工具包：
-https://github.com/bitshares/bitshares-core/releases/tag/5.0.0
+Windows系统:   
+从下面下载windows工具包：   
+https://github.com/bitshares/bitshares-core/releases/tag/5.0.0   
 bitshares-core-5.0.0-win64-bin.zip
 
 下载解压，打开文件夹：
-打开本地文件夹下的命令行窗口（请自行百度）...
+打开本地文件夹下的命令行窗口（请自行百度）...   
 Win10系统下本地文件夹工具栏会有：“文件”-“打开 Windows PowerShell（R)"-"打开 Windows PowerShell"
 
 命令行窗口输入：
