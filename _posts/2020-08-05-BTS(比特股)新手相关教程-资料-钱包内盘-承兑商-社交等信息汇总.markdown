@@ -164,7 +164,7 @@ cd "%~dp0
 witness_node -d node_data --partial-operations true --track-account "\"你的BTS ID\"" --track-account "\"你的BTS ID\"" --track-account "\"你的BTS ID\"" --rpc-endpoint 127.0.0.1:8090
 ```
 
-什么是bts id，去这个链接里去找怎么找自己的BTS ID：<https://steemit.com/bitshares/@boombastic/bitshares-api>，追踪几个账号，就填几个账号ID，上面是三个账号例子，如果就追踪一个，请把后面两个代码删掉。  
+什么是bts id，去这个链接里去找怎么找自己的BTS ID：去区块浏览器上查找你的账号，你账号后面的那串数字就是bts id，轻钱包菜单-账户-找到你的账户名，前面的那一串数字就是bts id，追踪几个账号，就填几个账号ID，上面是三个账号例子，如果就追踪一个，请把后面两个代码删掉。  
 
 保存关闭这个文本文档，然后将这个文本文档的扩展名 txt 改为 bat（如何显示扩展名，请按照各自系统上网查找），保存，然后以管理员权限运行这个bat批处理文件.（运行这个批处理文件需要取得管理员权限，如何取得管理员权限请百度。  
 
