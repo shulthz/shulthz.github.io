@@ -92,7 +92,7 @@ bitsy-wallet：<https://github.com/Agorise/bitsy-wallet/releases>
 **网页版钱包（SETTING-General-SWITCH LANGUAGE切换语言）**：  
 社区钱包网页版：<https://wallet.bitshares.org/>  
 GDEX网关：<http://gdex.io/>   其承兑的资产一般带有GDEX前缀,具体请看网站介绍.  
-rudex网关:<https://rudex.org/>  
+~~rudex网关:<https://rudex.org/>  ~~ 远离，负责人人品有问题
 xbts网关：<https://xbts.io>  
 WALLDEX：<https://bitsharestalk.org/index.php?topic=32448.msg342714;topicseen#msg342714>  
 
