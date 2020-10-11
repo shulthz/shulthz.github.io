@@ -269,8 +269,9 @@ QQ群：530513823 ，197298390，598969391
 
 **4.区块浏览器**：  
 <https://bts.ai/>  
+<https://blocksights.info/#/dashboard> 
 <http://www.cryptofresh.com>  
-<https://bitsharescan.com>  
+~~<https://bitsharescan.com>~~  
 
 
 <http://www.cryptofresh.com/posts>
@@ -280,8 +281,10 @@ QQ群：530513823 ，197298390，598969391
 抵押排行请点击网页钱包或轻钱包中的相应智能货币寻找到Margin positions便是抵押排行。
 
 个人账户全活动记录：  
-<https://bitshares-explorer.io>  
-<http://open-explorer.io/bitshares-account-exporter/index.php>
+<https://blocksights.info/#/dashboard>
+~~<https://bitshares-explorer.io>~~  
+~~<http://open-explorer.io/bitshares-account-exporter/index.php>~~
+
 
 在BTS系统里查询某笔交易的txid:  
 <https://www.biask.com/question/140>  
@@ -381,19 +384,22 @@ BTS还有一种“桥接”功能：这个功能能让你将一种资产转变�
 
 *11.杂项
 
-抵押操作本身就是在加杠杆，请务必清楚里面的收益与风险。！！！  
-Settlement price= Feed Price: 清算价格=喂价，由见证人读取外盘数据提供给内盘的资产价格  
-MCR=Maintenance collateral ratio: 爆仓抵押率
-ICR:最低抵押率
-MSSR=Maximum short squeeze ratio: 轧空比率，又称强平比率或爆仓惩罚比率  
-SQP=short squeeze protection price: 轧空保护价, 又称强制平仓价格  
-CP =Call price: 强平触发价格  
-Force settlement: 强制清算  
-Force settlement offset：强制清算补偿  
+抵押操作本身就是在加杠杆，请务必清楚里面的收益与风险。！！！   
+Settlement price= Feed Price: 清算价格=喂价(称谓问题），由见证人读取外盘数据提供给内盘的资产价格    
+MCR=Maintenance collateral ratio: 爆仓抵押率   
+ICR:最低抵押率  
+MSSR=Maximum short squeeze ratio: 轧空比率，又称强平比率或爆仓惩罚比率    
+MCFR: 爆仓手续费 
+SQP=short squeeze protection price: 轧空保护价, 又称强制平仓价格    
+CP =Call price: 强平触发价格    
+Force settlement: 强制清算    
+Force settlement offset：强制清算补偿
+FSFP：强制清算手续费（清算发起方支付）
 
-强制平仓价格=喂价/爆仓惩罚比率  
-强平触发价格=（债务/抵押物）×最低抵押率  
-强制清算价格=喂价×（1+强制清算补偿）  
+强制平仓价格=喂价/（爆仓惩罚比率-爆仓手续费）    
+强平触发价格=（债务/抵押物）×爆仓抵押率  
+强制清算价格=喂价 ×（1+强制清算补偿）
+实际强制清算结算价格=喂价× (1+强制清算补偿+强制清算手续费)
 
 只要内盘价格高于强制清算价格，强制清算就会有人发起，贴着线抵押的可要注意了。  
 
