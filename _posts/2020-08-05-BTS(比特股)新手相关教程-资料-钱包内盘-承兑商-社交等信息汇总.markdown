@@ -86,8 +86,8 @@ bitshares.tv
 BTS++:<http://btspp.io/zh-cn/index.html>   <https://bitsharestalk.org/index.php?topic=27486.0>  可以使用钱包模式   
 注意：有些手机钱包是需要助记词来恢复钱包，请将助记词写在几张纸上，妥善隐秘保管。  
 bitsy-wallet：<https://github.com/Agorise/bitsy-wallet/releases>  
-~~鼓鼓钱包网站：<https://www.magicw.net>长时间未更新~~  
-~~GDEX APP ：<https://download.gdex.io>长时间未更新~~  
+鼓鼓钱包网站：<https://www.magicw.net>长时间未更新 
+GDEX APP ：<https://download.gdex.io> 
 
 **网页版钱包（SETTING-General-SWITCH LANGUAGE切换语言）**：  
 社区钱包网页版：<https://wallet.bitshares.org/>  
