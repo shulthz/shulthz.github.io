@@ -63,10 +63,12 @@ tags: []
 **内盘资产鱼龙混杂，请各位仔细鉴别！！！内盘允许私人发行资产,所以请睁大眼睛,多方求证,看清资产发行方。**
 
 **1.中文资讯教程网站**  
-社区网站（没有中文）：<https://bitshares.org/>   
+社区网站（没有中文）：<https://bitshares.org/>  
+新闻网站：<News.BitShares.org>       
 内盘交易所使用教程：<http://www.btsabc.org/portal.php?mod=topic&topicid=1>   
 社区中文论坛：<https://bitsharestalk.org/index.php/board,4.0.html>   
-Steemit板块：<https://steemit.com/trending/bitshares>  
+Steemit板块：<https://steemit.com/trending/bitshares>    
+Hive板块：<https://hive.blog/created/bitshares>       
 bitshares.blog   
 bitshares.chat  
 bitshares.social   
@@ -85,41 +87,41 @@ bitshares.tv
 
 BTS++:<http://btspp.io/zh-cn/index.html>   <https://bitsharestalk.org/index.php?topic=27486.0>  可以使用钱包模式   
 注意：有些手机钱包是需要助记词来恢复钱包，请将助记词写在几张纸上，妥善隐秘保管。  
-bitsy-wallet：<https://github.com/Agorise/bitsy-wallet/releases>  
-鼓鼓钱包网站：<https://www.magicw.net>长时间未更新 
+bitsy-wallet：<https://github.com/Agorise/bitsy-wallet/releases>   
+鼓鼓钱包网站：<https://www.magicw.net>长时间未更新   
 GDEX APP ：<https://download.gdex.io> 
 
 **网页版钱包（SETTING-General-SWITCH LANGUAGE切换语言）**：  
-社区钱包网页版：<https://wallet.bitshares.org/>  
-GDEX网关：<http://gdex.io/>   其承兑的资产一般带有GDEX前缀,具体请看网站介绍.  
-~~rudex网关:<https://rudex.org/>~~ 远离，负责人人品有问题    
-xbts网关：<https://xbts.io>  
-RuDEX：<https://iobanker.com/>
-WALLDEX：<https://bitsharestalk.org/index.php?topic=32448.msg342714;topicseen#msg342714>  
+社区钱包网页版：<https://wallet.bitshares.org/>   
+GDEX网关：<http://gdex.io/>   其承兑的资产一般带有GDEX前缀,具体请看网站介绍.   
+~~rudex网关:<https://rudex.org/>~~ 远离，负责人人品有问题     
+xbts网关：<https://xbts.io>     
+RuDEX：<https://iobanker.com/>    
+WALLDEX：<https://bitsharestalk.org/index.php?topic=32448.msg342714;topicseen#msg342714>     
 
-~~丹麦网关Openledger：<https://openledger.io/>   其承兑的资产一般带有open前缀,具体看其网站介绍.已关闭~~  
-~~EasyDex网关：<https://exchange.easydex.net/welcome>~~  
-~~<https://deex.exchange/>已启用新链~~  
-<https://steemit.com/bitshares/@samstickkz/the-different-gateways-on-bitshares-blockchain> 这里一些国外网关的列表,其中btsgo这个界面挺有特色.  
+~~丹麦网关Openledger：<https://openledger.io/>   其承兑的资产一般带有open前缀,具体看其网站介绍.已关闭~~     
+~~EasyDex网关：<https://exchange.easydex.net/welcome>~~     
+~~<https://deex.exchange/>已启用新链~~     
+<https://steemit.com/bitshares/@samstickkz/the-different-gateways-on-bitshares-blockchain> 这里一些国外网关的列表,其中btsgo这个界面挺有特色.    
 
-BTS网关的解释:可以理解为网关维护的外挂钱包（中心化）, 网关资产一般都带有网关前缀, 比如open及GDEX, 网关资产由对应网关背书及承兑.  
+BTS网关的解释:可以理解为网关维护的外挂钱包（中心化）, 网关资产一般都带有网关前缀, 比如open及GDEX, 网关资产由对应网关背书及承兑.     
 ~~也有项目方自己进行承兑，比如YOYOW已关闭~~  
 
 国内新增API节点汇总  
-<https://bitsharestalk.org/index.php?topic=26224.0>  
-<https://status.apasia.tech/>  
+<https://bitsharestalk.org/index.php?topic=26224.0>    
+<https://status.apasia.tech/>    
 
 机器人：btsbots:  <https://bitsharestalk.org/index.php?topic=26395.0> （机器人会薅别人羊毛，也会薅自己羊毛，谨慎操作）
 
 **承兑商（请自己多对接几个承兑商，防止极端行情）：**    
-鼓鼓钱包：内部集成承兑商 <https://www.magicw.net>  
-GDEX APP: GDEX APP已集成承兑商  
-大象承兑：<http://bitassets.cc/>  
-承兑宝：  <http://www.54163.com/>  
-比特帝国综合：<http://btsabc.org/wall.php>  
+鼓鼓钱包：内部集成承兑商 <https://www.magicw.net>      
+GDEX APP: GDEX APP已集成承兑商    
+大象承兑：<http://bitassets.cc/>    
+承兑宝：  <http://www.54163.com/>    
+比特帝国综合：<http://btsabc.org/wall.php>    
 
 
-中比特ZB有QC交易对,也可以直冲法币买BTS，也有QC/BITCNY交易对。  
+中比特ZB有QC交易对,也可以直冲法币买BTS，也有QC/BITCNY交易对。   
 AEX有CNC（代表法币）交易对，可以直冲法币买BTS，也有CNC/bitcny交易对。 
 ***
 
@@ -292,8 +294,8 @@ QQ群：530513823 ，197298390，598969391
 
 理事会提案投票：  
 查找任一位在任理事的账号, 在其提案中查询.  
-<http://committee.bitshares.works/>  
-<https://cryptofresh.com/p/1.10.25653>(数字替换为提案号)
+<http://committee.bitshares.works/>    
+<https://cryptofresh.com/p/1.10.25653>(数字替换为提案号)  
 
 
 见证人日志  
@@ -307,64 +309,64 @@ BitShares 2.0白皮书：<http://btsabc.org/article-702-1.html>
 
 
 **6.一些非常有用的链接** 
-BitShares (BTS) 中文技术文档：<https://github.com/abitmore/bts-cn-docs>  
-<https://steemit.com/@chaimyu>  
-BitShares FAQ（YAO编写，有志青年可以去完善）：<https://imyao.gitbooks.io/bitshares-faq/content/>  
-<https://bitsharestalk.org/index.php/topic,25297.0.html>  
-<https://bitsharestalk.org/index.php/topic,25303.0.html>  
-<https://bitsharestalk.org/index.php/topic,21916.0.html>  
-<https://bitsharestalk.org/index.php/topic,20468.0.html> 
+BitShares (BTS) 中文技术文档：<https://github.com/abitmore/bts-cn-docs>    
+<https://steemit.com/@chaimyu>    
+BitShares FAQ（YAO编写，有志青年可以去完善）：<https://imyao.gitbooks.io/bitshares-faq/content/>    
+<https://bitsharestalk.org/index.php/topic,25297.0.html>    
+<https://bitsharestalk.org/index.php/topic,25303.0.html>   
+<https://bitsharestalk.org/index.php/topic,21916.0.html>   
+<https://bitsharestalk.org/index.php/topic,20468.0.html>   
 
-**7.投票的话**，可以自己投，也可以委托给别人. 
+**7.投票的话**，可以自己投，也可以委托给别人.   
 
-**8.操作教程：**
+**8.操作教程：**  
 
 BITCNY(bit资产同理）抵押借出教程:  <https://weibo.com/ttarticle/p/show?id=2309404170444075842698>    
-内盘同学请控制风险，合理抵押，内盘随时预留资金应对极端行情！！！  
-BTS大讲堂系列视频教程  
+内盘同学请控制风险，合理抵押，内盘随时预留资金应对极端行情！！！    
+BTS大讲堂系列视频教程    
 <https://www.bitask.org/question/47>  
 
 **9.中心化交易所开通情况** 
 
 BITCNY：  
-<https://www.aex.com/>  
-<https://www.zb.com/>  
-<https://www.cointiger.com>  
-<https://www.biki.com/>  
-<https://www.xbrick.io/>  
-<http://www.u.cx/>  
-<https://www.kkcoin.com>  
+<https://www.aex.com/>   
+<https://www.zb.com/>   
+<https://www.cointiger.com>   
+<https://www.biki.com/>   
+<https://www.xbrick.io/>   
+<http://www.u.cx/>   
+<https://www.kkcoin.com>   
 
 BTS:  
-<https://www.binance.com/>  
-<https://www.huobipro.com>  
-<https://www.zb.com/>   
-<https://www.aex.com/>   
-<https://gate.io/>  
-<https://upbit.com/home>  
-<https://hitbtc.com>   
-<https://www.cointiger.com>   
-<https://www.lykke.com/>   
-<https://www.exx.com/>   
-<http://www.lbank.info>    
-<http://u.cx/>  
-<https://www.coinegg.com/>  
-<https://big.one/>  
-<https://bittrex.com/>  
-<https://www.uncoinex.com>  
+<https://www.binance.com/>   
+<https://www.huobipro.com>   
+<https://www.zb.com/>    
+<https://www.aex.com/>    
+<https://gate.io/>   
+<https://upbit.com/home>   
+<https://hitbtc.com>    
+<https://www.cointiger.com>    
+<https://www.lykke.com/>    
+<https://www.exx.com/>    
+<http://www.lbank.info>     
+<http://u.cx/>   
+<https://www.coinegg.com/>   
+<https://big.one/>   
+<https://bittrex.com/>   
+<https://www.uncoinex.com>   
 
 <https://poloniex.com> （经常性禁止充提，不建议）  
-<https://yobit.net>  
+<https://yobit.net>   
 
 
 ***
 BTS的“转账”与“提现”：
 
-BTS的“转账”与“提现”两者是不同的。  
-转账：BTS账号间的互相转账；  
-但是请注意，网关间的资产不能使用转账进行转换，比如GDEX.EOS转换为OPEN.EOS，是需要使用“提现”功能进行转换。  
+BTS的“转账”与“提现”两者是不同的。   
+转账：BTS账号间的互相转账；    
+但是请注意，网关间的资产不能使用转账进行转换，比如GDEX.EOS转换为OPEN.EOS，是需要使用“提现”功能进行转换。   
 
-提现（提币）：从BTS钱包提币至其它区块链钱包；
+提现（提币）：从BTS钱包提币至其它区块链钱包； 
 
 例如：
 
@@ -372,40 +374,40 @@ bts:  现在有bts的交易所（这些交易所都安装有bts钱包）可以�
 
 其它网关资产例如GDEX, open等前缀的：去网页钱包或者轻钱包或者对应的网关网页钱包，使用“提现”功能，不能使用“转账”功能，找到对应网关前缀的资产即可，GDEX前缀的可以部分使用鼓鼓钱包“我的资产”中的”提币“。
 
-YOYOW：这种项目方直接对接内盘的，找项目方的说明。
+YOYOW：这种项目方直接对接内盘的，找项目方的说明。  
 
 BTS还有一种“桥接”功能：这个功能能让你将一种资产转变成另一种资产，比如从 BTC 转换到 BTS，从BTS变为BTC，不过中间费用比较高。
 
 **10.适合英文比较好的同学看  
-<https://coincentral.com/what-is-bitshares/>  
-<http://docs.bitshares.eu/bitshares/papers/index.html>  
-<http://docs.bitshares.eu/bitshares/user/first-steps-users.html>  
-<https://steemit.com/bitshares/@tsugimoto/user-guide-direct-exchange-servise>  
-<https://steemit.com/bitshares/@scythian/dex-market-maker-tutorial-bits-and-btsbots>  
+<https://coincentral.com/what-is-bitshares/>    
+<http://docs.bitshares.eu/bitshares/papers/index.html>    
+<http://docs.bitshares.eu/bitshares/user/first-steps-users.html>    
+<https://steemit.com/bitshares/@tsugimoto/user-guide-direct-exchange-servise>    
+<https://steemit.com/bitshares/@scythian/dex-market-maker-tutorial-bits-and-btsbots>    
 
 *11.杂项
 
-抵押操作本身就是在加杠杆，请务必清楚里面的收益与风险。！！！   
-Settlement price= Feed Price: 清算价格=喂价(称谓问题），由见证人读取外盘数据提供给内盘的资产价格    
-MCR=Maintenance collateral ratio: 爆仓抵押率   
-ICR:最低抵押率  
-MSSR=Maximum short squeeze ratio: 轧空比率，又称强平比率或爆仓惩罚比率    
-MCFR: 爆仓手续费 
-SQP=short squeeze protection price: 轧空保护价, 又称强制平仓价格    
-CP =Call price: 强平触发价格    
-Force settlement: 强制清算    
-Force settlement offset：强制清算补偿
-FSFP：强制清算手续费（清算发起方支付）
+抵押操作本身就是在加杠杆，请务必清楚里面的收益与风险。！！！    
+Settlement price= Feed Price: 清算价格=喂价(称谓问题），由见证人读取外盘数据提供给内盘的资产价格     
+MCR=Maintenance collateral ratio: 爆仓抵押率     
+ICR:最低抵押率    
+MSSR=Maximum short squeeze ratio: 轧空比率，又称强平比率或爆仓惩罚比率      
+MCFR: 爆仓手续费   
+SQP=short squeeze protection price: 轧空保护价, 又称强制平仓价格     
+CP =Call price: 强平触发价格     
+Force settlement: 强制清算     
+Force settlement offset：强制清算补偿  
+FSFP：强制清算手续费（清算发起方支付）  
 
-强制平仓价格=喂价/（爆仓惩罚比率-爆仓手续费）    
-强平触发价格=（债务/抵押物）×爆仓抵押率  
-强制清算价格=喂价 ×（1+强制清算补偿）
-实际强制清算结算价格=喂价× (1+强制清算补偿+强制清算手续费)
+强制平仓价格=喂价/（爆仓惩罚比率-爆仓手续费）     
+强平触发价格=（债务/抵押物）×爆仓抵押率     
+强制清算价格=喂价 ×（1+强制清算补偿）   
+实际强制清算结算价格=喂价× (1+强制清算补偿+强制清算手续费)    
 
-只要内盘价格高于强制清算价格，强制清算就会有人发起，贴着线抵押的可要注意了。  
+只要内盘价格高于强制清算价格，强制清算就会有人发起，贴着线抵押的可要注意了。    
 
 
-论吃爆仓单的正确姿势，爆仓机制修正后，吃单方式有变化，仅供参考：  
+论吃爆仓单的正确姿势，爆仓机制修正后，吃单方式有变化，仅供参考：   
 <https://www.bitask.org/question/261>
 
 轻钱包中有消息签名功能: 如果对消息签名不理解的可以参考BTC的消息签名:<https://jingyan.baidu.com/article/ea24bc39af4ae9da62b3313b.html> , 大白话就是 证明你是你的文件.  
