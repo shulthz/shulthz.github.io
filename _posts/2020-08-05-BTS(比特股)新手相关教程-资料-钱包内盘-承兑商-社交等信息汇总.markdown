@@ -64,7 +64,7 @@ tags: []
 
 **1.中文资讯教程网站**  
 社区网站（没有中文）：<https://bitshares.org/>  
-新闻网站：<News.BitShares.org>       
+新闻网站：<https://news.bitshares.org/>       
 内盘交易所使用教程：<http://www.btsabc.org/portal.php?mod=topic&topicid=1>   
 社区中文论坛：<https://bitsharestalk.org/index.php/board,4.0.html>   
 Steemit板块：<https://steemit.com/trending/bitshares>    
