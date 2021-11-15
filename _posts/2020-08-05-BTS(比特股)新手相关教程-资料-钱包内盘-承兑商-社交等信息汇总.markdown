@@ -13,7 +13,7 @@ tags: []
   
 **警告**: 没事不要乱点别人发给你的提案, 很容易被钓鱼盗取你的帐号!!!   
 另：BTS系统交易转账提现是要上块消耗BTS的，请预先充值CNY购买几个BTS，或者转账几个bts到你的账户，防止交易转账因手续费不足无法进行，卖bts的时候也不要全卖个精光，留个1个bts或0.5个bts做手续费。
-
+另：Bitshares电报群可以每周申领一个BTS（XBTS网关提供）
 
 **账号模式注册的同学请注意：** 
 请一定要设置长复杂密码，请一定要把你的账号密码记住，   
@@ -87,21 +87,18 @@ bitshares.tv
 
 BTS++:<http://btspp.io/zh-cn/index.html>   <https://bitsharestalk.org/index.php?topic=27486.0>  可以使用钱包模式   
 注意：有些手机钱包是需要助记词来恢复钱包，请将助记词写在几张纸上，妥善隐秘保管。  
+GDEX APP ：<https://download.gdex.io> 
 bitsy-wallet：<https://github.com/Agorise/bitsy-wallet/releases>   
 鼓鼓钱包网站：<https://www.magicw.net>长时间未更新   
-GDEX APP ：<https://download.gdex.io> 
+
 
 **网页版钱包（SETTING-General-SWITCH LANGUAGE切换语言）**：  
 社区钱包网页版：<https://wallet.bitshares.org/>   
-GDEX网关：<http://gdex.io/>   其承兑的资产一般带有GDEX前缀,具体请看网站介绍.   
-~~rudex网关:<https://rudex.org/>~~ 远离，负责人人品有问题     
+GDEX网关：<http://gdex.io/>   其承兑的资产一般带有GDEX前缀,具体请看网站介绍.     
 xbts网关：<https://xbts.io>     
-RuDEX：<https://iobanker.com/>    
+IOBANKER：<https://iobanker.com/>    
 WALLDEX：<https://bitsharestalk.org/index.php?topic=32448.msg342714;topicseen#msg342714>     
 
-~~丹麦网关Openledger：<https://openledger.io/>   其承兑的资产一般带有open前缀,具体看其网站介绍.已关闭~~     
-~~EasyDex网关：<https://exchange.easydex.net/welcome>~~     
-~~<https://deex.exchange/>已启用新链~~     
 <https://steemit.com/bitshares/@samstickkz/the-different-gateways-on-bitshares-blockchain> 这里一些国外网关的列表,其中btsgo这个界面挺有特色.    
 
 BTS网关的解释:可以理解为网关维护的外挂钱包（中心化）, 网关资产一般都带有网关前缀, 比如open及GDEX, 网关资产由对应网关背书及承兑.     
@@ -318,6 +315,8 @@ BitShares FAQ（YAO编写，有志青年可以去完善）：<https://imyao.gitb
 <https://bitsharestalk.org/index.php/topic,20468.0.html>   
 
 **7.投票的话**，可以自己投，也可以委托给别人.   
+投票机制已更改，目前为锁定投票。
+
 
 **8.操作教程：**  
 
@@ -416,3 +415,5 @@ FSFP：强制清算手续费（清算发起方支付）
 
 感谢以上链接中辛勤的工作者与翻译者，让我们前路不再茫然！！！  
 BTS虐你千百遍,你待BTS如初恋!
+
+论坛链接：https://bitsharestalk.org/index.php?topic=26226.0
